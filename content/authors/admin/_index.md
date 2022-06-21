@@ -4,9 +4,7 @@ role: PhD Candidate of Neuroscience
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neuroscience; Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,19 +25,16 @@ organizations:
   - name: Johns Hopkins University
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Neuroscience
+      institution: Johns Hopkins University
+      year: ""
+    - course: BS in Physics
+      institution: Nankai University
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks
+Xinhao Fan is a student in Johns Hopkins University
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
