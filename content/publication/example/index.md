@@ -23,11 +23,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *bioRxiv*
+publication_short: In *bioRxiv*
 
 abstract: Traditional models of decision making under uncertainty explain human behavior in simple situations with a minimal set of alternatives and
 attributes. Some of them, such as prospect theory, have been proven successful and robust in such simple situations. Yet, less is known about
