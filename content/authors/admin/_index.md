@@ -18,14 +18,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Johns Hopkins University
 education:
   courses:
-    - course: PhD in Neuroscience
+    - course: Current Graduate Student in Neuroscience
       institution: Johns Hopkins University
       year: ""
     - course: BS in Physics
@@ -35,6 +32,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Xinhao Fan is a student in Johns Hopkins University
+What are the factors which contribute to a flexible intelligence, and how do they arise?
+How is information represented, computed, and utilized in the brain? Why is our brain
+so much better than man-made machines and AI? I’m broadly interested in such topics
+in theoretical neuroscience where physics, biology and machine learning meet.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
