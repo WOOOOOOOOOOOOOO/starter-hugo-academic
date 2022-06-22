@@ -8,7 +8,7 @@ active: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 70
 
 title: 'Recent & Upcoming Talks'
 subtitle:
