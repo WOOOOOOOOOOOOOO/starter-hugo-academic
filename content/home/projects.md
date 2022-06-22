@@ -32,7 +32,7 @@ content:
     - name: Information Theory
       tag: Information Theory
     - name: Neuromorphic Computation
-      tag: Neuromorphic Computation
+      tag: Neuromorphic Computatio
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
