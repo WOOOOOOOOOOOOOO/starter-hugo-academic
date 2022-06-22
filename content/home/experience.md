@@ -48,7 +48,7 @@ experience:
   - title: Undergraduate Researcher
     company: CLPS Department, Brown University
     company_url: ''
-    company_logo: org-gc
+    company_logo: brown
     location: Providence, RI
     date_start: '2018-07-01'
     date_end: '2018-10-01'
