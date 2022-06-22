@@ -62,8 +62,7 @@ performs well in the simpler of our two tasks (second best, after the accumulato
 when faced with complex choice problems, people prefer to accumulate
 preference based on attention-guided pairwise comparisons.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: Decision Making in complex case
 tags: []
 
 # Display this page in the Featured widget?
