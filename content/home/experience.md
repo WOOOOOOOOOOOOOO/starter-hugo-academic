@@ -60,7 +60,7 @@ experience:
   - title: Undergraduate Researcher
     company: Kavli Institute for Theoretical Physics
     company_url: ''
-    company_logo: org-x
+    company_logo: physics
     location: Beijing, China
     date_start: '2017-06-01'
     date_end: '2017-09-01'
