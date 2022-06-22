@@ -30,7 +30,7 @@ content:
   address:
     street: 3400 North Charles Street
     city: Baltimore
-    region: MA
+    region: MD
     postcode: '21218'
     country: United States
     country_code: US
