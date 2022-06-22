@@ -29,8 +29,28 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: Traditional models of decision making under uncertainty explain human behavior in simple situations with a minimal set of alternatives and
+attributes. Some of them, such as prospect theory, have been proven successful and robust in such simple situations. Yet, less is known about
+the preference formation during decision making in more complex cases.
+Furthermore, it is generally accepted that attention plays a role in the
+decision process but most theories make simplifying assumptions about
+where attention is deployed. In this study, we replace these assumptions
+by measuring where humans deploy overt attention, i.e. where they fixate. To assess the influence of task complexity, participants perform two
+tasks. The simpler of the two requires participants to choose between
+two alternatives with two attributes each (four items to consider). The
+more complex one requires a choice between four alternatives with four
+attributes each (16 items to consider). We then compare a large set of
+model classes, of different levels of complexity, by considering the dynamic
+interactions between uncertainty, attention and pairwise comparisons between attribute values. The task of all models is to predict what choices
+humans make, using the sequence of observed eye movements for each
+participant as input to the model. We find that two models outperform
+all others. The first is the two-layer leaky accumulator which predicts human choices on the simpler task better than any other model. We call the
+second model, which is introduced in this study, TNPRO. It is modified
+from a previous model from management science and designed to deal
+with highly complex decision problems. Our results show that this model
+performs well in the simpler of our two tasks (second best, after the accumulator model) and best for the complex task. Our results suggest that,
+when faced with complex choice problems, people prefer to accumulate
+preference based on attention-guided pairwise comparisons.
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -66,7 +86,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
