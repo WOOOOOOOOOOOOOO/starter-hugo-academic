@@ -4,7 +4,8 @@ role: PhD Candidate of Neuroscience
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Computational Neuroscience; Artificial Intelligence
+  - Computational Neuroscience
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
