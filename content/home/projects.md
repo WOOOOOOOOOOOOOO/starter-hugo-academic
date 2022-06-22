@@ -27,12 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Neural Coding
-      tag: Neural Coding
-    - name: Information Theory
-      tag: Information Theory
-    - name: Neuromorphic Computation
-      tag: Neuromorphic Computatio
+    - name: Neural coding
+      tag: Neural coding
+    - name: Information theory
+      tag: Information theory
+    - name: Neuromorphic computation
+      tag: Neuromorphic computation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
