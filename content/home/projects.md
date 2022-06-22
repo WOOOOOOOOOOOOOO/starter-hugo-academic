@@ -7,9 +7,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 20
 
-title: Projects
+title: Current Projects
 subtitle: ''
 
 content:
@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Neural Coding
+      tag: Neural Coding
+    - name: Information Theory
+      tag: Information Theory
+    - name: Neuromorphic Computation
+      tag: Neuromorphic Computation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
