@@ -23,40 +23,34 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Graduate Student
-    company: Mind/Brain Institute, Johns Hopkins University
+    company: Department of Neuroscience, Johns Hopkins University
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Baltimore, MD
+    date_start: '2020-07-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: |
+    
 
   - title: Undergraduate Researcher
     company: CLPS Department, Brown University
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    location: Providence, RI
+    date_start: '2018-07-01'
+    date_end: '2018-10-01'
+    description: |
+        * Analyzing visual system model with information theory. Different learning pace were
+        found for different parts of the model, which could help further understand and improve
+        existing algorithms.
 
   - title: Undergraduate Researcher
     company: Kavli Institute for Theoretical Physics
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Beijing, China
+    date_start: '2017-06-01'
+    date_end: '2017-09-01'
     description: |
         * Exploration on solving k-satisfiability problem with reinforcement learning.
         Reproduced AlphaGoZero on a small scale.
