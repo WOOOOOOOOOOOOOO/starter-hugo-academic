@@ -31,6 +31,19 @@ experience:
     date_end: ''
     description: |
     
+  - title: Undergraduate Researcher
+    company: Zanvyl Krieger Mind/Brain Institute, Johns Hopkins University
+    company_url: ''
+    company_logo: org-gc
+    location: Baltimore, MD
+    date_start: '2019-07-01'
+    date_end: '2019-12-01'
+    description: |
+      * Data analysis and model development on human decision-making in complex tasks.
+      Several parameter-efficient models were built which reached high performance on predicting participants’ choices.
+      * Simulating neural spiking and finding correlations between criticality in brain and
+      different consciousness states of coma.
+    
 
   - title: Undergraduate Researcher
     company: CLPS Department, Brown University
