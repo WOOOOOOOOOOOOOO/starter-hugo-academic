@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student
     company: Department of Neuroscience, Johns Hopkins University
     company_url: ''
-    company_logo: org-gc
+    company_logo: neurodepartment
     location: Baltimore, MD
     date_start: '2020-07-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Undergraduate Researcher
     company: Zanvyl Krieger Mind/Brain Institute, Johns Hopkins University
     company_url: ''
-    company_logo: org-gc
+    company_logo: neurodepartment
     location: Baltimore, MD
     date_start: '2019-07-01'
     date_end: '2019-12-01'
