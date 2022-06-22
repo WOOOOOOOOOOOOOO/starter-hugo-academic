@@ -22,7 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - company: Mind/Brain Institute, Johns Hopkins University
+  - title: Graduate Student
+    company: Mind/Brain Institute, Johns Hopkins University
     company_url: ''
     company_logo: org-gc
     location: California
@@ -35,7 +36,8 @@ experience:
         * Modelling
         * Deploying
 
-  - company: CLPS Department, Brown University
+  - title: Undergraduate Researcher
+    company: CLPS Department, Brown University
     company_url: ''
     company_logo: org-gc
     location: California
@@ -48,7 +50,8 @@ experience:
         * Modelling
         * Deploying
 
-  - company: Kavli Institute for Theoretical Physics
+  - title: Undergraduate Researcher
+    company: Kavli Institute for Theoretical Physics
     company_url: ''
     company_logo: org-x
     location: California
