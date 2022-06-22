@@ -57,7 +57,11 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |
+        * Exploration on solving k-satisfiability problem with reinforcement learning.
+        Reproduced AlphaGoZero on a small scale.
+        * Several learning oriented projects about restricted Boltzmann machines and
+        Bayesian inference.
 
 design:
   columns: '2'
