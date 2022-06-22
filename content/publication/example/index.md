@@ -1,12 +1,22 @@
 ---
-title: 'An example conference paper'
+title: 'Overt visual attention and value computation in
+complex risky choice'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Jacob Elsey
+  - Aurelien Wyngaard
+  - Youping Yang
+  - Aaron Sampson
+  - Erik Emeric
+  - Moshe Glickman
+  - Marius Usher
+  - Dino Levy
+  - Veit Stuphorn
+  - Ernst Niebur
 
 # Author notes (optional)
 author_notes:
