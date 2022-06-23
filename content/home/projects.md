@@ -29,7 +29,7 @@ content:
       background:
         position: right
         color: '#666'
-        brightness: 0.6
+        brightness: 0.4
         media: anxiety.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
@@ -37,11 +37,6 @@ content:
       background:
         position: center
         color: '#333'
-        brightness: 0.5
+        brightness: 0.4
         media: information.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
 ---
