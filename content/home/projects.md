@@ -24,7 +24,7 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.4
+        brightness: 1.0
         media: owls.jpg
     - title: Neural Coding for Anxiety
       content: | 
@@ -34,7 +34,7 @@ content:
       background:
         position: right
         color: '#666'
-        brightness: 0.4
+        brightness: 1.0
         media: owls.jpg
     - title: Information Theory Tools for Neuroscience
       content: 
