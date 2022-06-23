@@ -41,7 +41,7 @@ content:
       content: 
         How does the brain create combinatorially optimized coding for selective attention? 
         Neural plasticity in spiking neural network
-        might have an answer to this np-complete problem.
+        may have an answer to this np-complete problem.
       align: right
       background:
         position: center
