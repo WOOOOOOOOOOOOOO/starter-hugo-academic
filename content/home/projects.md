@@ -15,6 +15,14 @@ design:
 
 content:
   slides:
+    - title: Lunch & Learn ☕️
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: owls.jpg
     - title: 👋 Welcome to the group
       content: Take a look at what we're working on...
       align: center
@@ -23,14 +31,6 @@ content:
         color: '#666'
         brightness: 0.6
         media: information.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: contact.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
