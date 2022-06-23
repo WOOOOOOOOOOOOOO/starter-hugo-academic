@@ -27,15 +27,20 @@ content:
         brightness: 0.4
         media: owls.jpg
     - title: Neural Coding for Anxiety
-      content: sfsdfsdf
+      content: | 
+        Can we tell anxious level by deciphering neural activities? 
+        Calcium imaging result in mice mPFC showed us some possibilites.
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.4
         media: anxiety.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+     - title: Information Theory Tools for Neuroscience
+      content: 
+        What's the role of synergistic information in high-dimensional data, and
+        how could we estimate it? A practical tool could be established based on 
+        partial information decomposition.
       align: right
       background:
         position: center
