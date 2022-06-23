@@ -36,7 +36,7 @@ content:
         color: '#666'
         brightness: 0.4
         media: anxiety.jpg
-     - title: Information Theory Tools for Neuroscience
+    - title: Information Theory Tools for Neuroscience
       content: 
         What's the role of synergistic information in high-dimensional data, and
         how could we estimate it? A practical tool could be established based on 
