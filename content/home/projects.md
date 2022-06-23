@@ -15,16 +15,19 @@ design:
 
 content:
   slides:
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Neuromorphic Computation
+      content: 
+        How does owl's brain use combinatorially optimized neural coding 
+        to solve np-complete problem? Neural plasticity in spiking neural network
+        might have an answer.
       align: left
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.4
         media: owls.jpg
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: Neural Coding for Anxiety
+      content: sfsdfsdf
       align: center
       background:
         position: right
