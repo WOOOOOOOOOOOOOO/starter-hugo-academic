@@ -17,8 +17,8 @@ content:
   slides:
     - title: Information Theory Tools for Neuroscience
       content: 
-        What's the role of synergistic information in high-dimensional data, and
-        how could we estimate it? A practical tool could be established based on 
+        What is the role of synergistic information in high-dimensional data, and
+        how could we estimate it? A practical tool can be established based on 
         partial information decomposition.
       align: left
       background:
@@ -28,8 +28,9 @@ content:
         media: information.jpg
     - title: Neural Coding for Anxiety
       content: | 
-        Can we tell anxious level by deciphering neural activities? 
-        Calcium imaging result in mice mPFC showed us some possibilites.
+        Can we decipher how anxiety levels are represented in neural activities? 
+        In collaboration with Garima Shah,
+        analysis of calcium imaging data from mice reveals to us some possibilites.
       align: center
       background:
         position: right
@@ -38,9 +39,9 @@ content:
         media: anxiety.jpg
     - title: Neuromorphic Computation
       content: 
-        How does owl's brain use combinatorially optimized neural coding 
-        to solve np-complete problem? Neural plasticity in spiking neural network
-        might have an answer.
+        How does the brain create combinatorially optimized coding for selective attention? 
+        Neural plasticity in spiking neural network
+        might have an answer to this np-complete problem.
       align: right
       background:
         position: center
