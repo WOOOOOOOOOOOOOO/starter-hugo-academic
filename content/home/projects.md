@@ -45,6 +45,6 @@ content:
       background:
         position: center
         color: '#333'
-        brightness: 0.4
+        brightness: 1.0
         media: information.jpg
 ---
