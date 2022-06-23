@@ -35,7 +35,7 @@ content:
         position: right
         color: '#666'
         brightness: 1.0
-        media: owls.jpg
+        media: anxiety.jpg
     - title: Information Theory Tools for Neuroscience
       content: 
         What's the role of synergistic information in high-dimensional data, and
