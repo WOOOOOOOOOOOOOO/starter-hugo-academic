@@ -15,17 +15,17 @@ design:
 
 content:
   slides:
-    - title: Neuromorphic Computation
+    - title: Information Theory Tools for Neuroscience
       content: 
-        How does owl's brain use combinatorially optimized neural coding 
-        to solve np-complete problem? Neural plasticity in spiking neural network
-        might have an answer.
+        What's the role of synergistic information in high-dimensional data, and
+        how could we estimate it? A practical tool could be established based on 
+        partial information decomposition.
       align: left
       background:
         position: center
-        color: '#555'
+        color: '#333'
         brightness: 1.0
-        media: owls.jpg
+        media: information.jpg
     - title: Neural Coding for Anxiety
       content: | 
         Can we tell anxious level by deciphering neural activities? 
@@ -36,15 +36,17 @@ content:
         color: '#666'
         brightness: 1.0
         media: anxiety.jpg
-    - title: Information Theory Tools for Neuroscience
+    - title: Neuromorphic Computation
       content: 
-        What's the role of synergistic information in high-dimensional data, and
-        how could we estimate it? A practical tool could be established based on 
-        partial information decomposition.
+        How does owl's brain use combinatorially optimized neural coding 
+        to solve np-complete problem? Neural plasticity in spiking neural network
+        might have an answer.
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#555'
         brightness: 1.0
-        media: information.jpg
+        media: owls.jpg
+
+    
 ---
