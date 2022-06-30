@@ -25,8 +25,8 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: xfan20@jh.edu
-  phone: 667 910 5626
+  #email: xfan20@jh.edu
+  #phone: 667 910 5626
   address:
     street: 3400 North Charles Street
     city: Baltimore
