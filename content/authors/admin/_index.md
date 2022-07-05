@@ -1,8 +1,8 @@
 ---
 title: Xinhao Fan
 role: PhD Candidate of Neuroscience
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include neural coding, neuromorphic computation and artificial 
+neural networks.
 interests:
   - Computational Neuroscience
   - Artificial Intelligence
