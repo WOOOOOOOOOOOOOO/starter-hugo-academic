@@ -35,4 +35,4 @@ How is information represented, computed, and utilized in the brain? Why is our 
 so much better than man-made machines and AI? I’m broadly interested in such topics
 in theoretical neuroscience where physics, biology and machine learning meet.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xinhao_Fan_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
