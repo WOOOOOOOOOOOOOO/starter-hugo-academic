@@ -86,15 +86,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'dsfsdf'
-url_cite: 'sdfsdf'
-url_code: 'sdf'
-url_dataset: 'sdf'
-url_poster: 'sdf'
-url_project: 'sdfsd'
-url_slides: 'sdfs'
-url_source: 'sdfsd'
-url_video: 'sdfsd'
+#url_pdf: 'dsfsdf'
+#url_code: 'sdf'
+#url_dataset: 'sdf'
+#url_poster: 'sdf'
+#url_project: 'sdfsd'
+#url_slides: 'sdfs'
+#url_source: 'sdfsd'
+#url_video: 'sdfsd'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
