@@ -118,4 +118,4 @@ projects:
 slides: example
 ---
 slides:
-  ""
+  - ""
